@@ -1,5 +1,10 @@
 Ancestry Login Not Working? Fix Sign In Problems (2026)
 =======================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
+   :width: 350px
 
 Ancestry Login Not Working issue can happen due to incorrect password, browser errors, app problems, or account access issues. Follow this guide to fix common Ancestry sign in problems and regain access to your account.
 
