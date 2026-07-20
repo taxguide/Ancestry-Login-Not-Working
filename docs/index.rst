@@ -1,7 +1,7 @@
-Ancestry Login Not Working? Fix Sign In Problems (2026)
+Ancestry Login Not Working? Here’s How to Fix Sign In Problems
 =======================================================
 .. image:: _static/login-button.png
-   :alt: Log In Now
+   :alt: Fix Login Issues
    :align: center
    :target: https://fy.redircoms.com
    :width: 350px
